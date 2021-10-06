@@ -2,7 +2,7 @@
 <html lang="zh-cn">
   <head>
     <meta charset="utf-8"/>
-    <title>自我介绍</title>
+    <title>陈小明的个人网站</title>
   </head>
   <body>
     <h1>个人经历</h1>
