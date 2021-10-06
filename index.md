@@ -5,9 +5,9 @@
     <title>陈小明的个人网站</title>
   </head>
   <body>
-    <h1>个人经历</h1>
-    <p>小学——初中——高中</p>
-    <h2>性格</h2>
-    <img src="/微信图片_20210902113624.jpg">
-  </body>
+    <ul>
+      <li><a href=>基本信息</a></li>
+      <li><a href=>成长经历</a></li>
+      <li><a href=>兴趣爱好</a></li>
+     </body>
 </html>
