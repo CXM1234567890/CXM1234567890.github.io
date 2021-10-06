@@ -5,6 +5,7 @@
     <title>陈小明的个人网站</title>
   </head>
   <body>
+    <h2>陈小明</h2>
     <ul>
       <li><a href=>基本信息</a></li>
       <li><a href=>成长经历</a></li>
