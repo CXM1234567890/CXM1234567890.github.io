@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8"/>
     <title>陈小明的个人网站</title>
+    <link rel="stylesheet" type="text/css" href="wangye.css">
   </head>
     <body>
        <h2>陈小明</h2>
